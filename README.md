@@ -8,3 +8,8 @@
 - Cublic Spline
 
 + Polynomial Interpolation Limitation
+
+
+
+#### Pattawut Manapongpun  5810755537
+#### Suchanun Pichaiyut    5910750685
