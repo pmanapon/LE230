@@ -6,3 +6,5 @@
 - Newton's Forward Difference Interpolation
 - Newton's Backward Difference Interpolation
 - Cublic Spline
+
++ Polynomial Interpolation Limitation
